@@ -15,46 +15,62 @@ A modern travel planning application that helps users create well-organized, day
 - 🌐 Easy trip management and tracking
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
+- React
+- TypeScript
 - HTML5
 - CSS3
-- JavaScript
 
-### Backend
-- Python
-- Flask
+### Build & Development Tools
+- Vite
 
-### Other Technologies
-- JSON
-- REST APIs (if integrated)
+### Styling
+- Plain CSS
+
+### Development Environment
+- Node.js
+- npm
 
 ---
 
-## 📂 Project Structure
+## 📦 Dependencies
+
+- React
+- React DOM
+- TypeScript
+- Vite
+
+---
+
+## 🏗️ Project Architecture
+
+This project is a frontend-only application built using React and TypeScript. The application uses Vite as the development server and build tool, providing a fast and optimized development experience.
+
+### Key Characteristics
+
+- No backend server
+- No database integration
+- No external API calls
+- Fully client-side application
+- Lightweight and fast performance
+- Responsive user interface
+
+---
+
+## 📁 Core Files
 
 ```bash
-Trip-Day-Planner/
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── templates/
-│   ├── index.html
-│   ├── planner.html
-│   └── result.html
-│
-├── app.py
-├── requirements.txt
-└── README.md
-```
+src/
+├── main.tsx      # Application entry point
+├── App.tsx       # Main application component
+└── index.css     # Global styles
 
+vite.config.ts    # Vite configuration
+package.json      # Project dependencies and scripts
 ---
-
+```
 ## ⚙️ Installation
 
 ### Clone the Repository
@@ -106,9 +122,6 @@ Add your demo video or screenshots here.
 
 Upload your project demo video to YouTube, Google Drive, or GitHub Releases and add the link below: 
 
-```text
-Demo Link: https://your-demo-link.com
-```
 
 ---
 
@@ -171,9 +184,8 @@ B.Tech Engineering Student | AI & Web Development Enthusiast
 
 ### Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
-- GitHub: https://github.com/your-github-username
-- Portfolio: https://your-portfolio-link.com
+- LinkedIn: https://www.linkedin.com/in/priyanka-sharma-489560249?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- GitHub: https://github.com/PRIYANKA0045
 
 ---
 
