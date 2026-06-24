@@ -120,7 +120,7 @@ Add your demo video or screenshots here.
 
 ### Demo Video
 
-Upload your project demo video to YouTube, Google Drive, or GitHub Releases and add the link below: 
+https://github.com/PRIYANKA0045/Trip-Day-Planner/blob/main/demoApp.mp4
 
 
 ---
