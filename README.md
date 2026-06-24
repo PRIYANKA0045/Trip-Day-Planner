@@ -113,17 +113,13 @@ python app.py
 ```
 
 ---
-
 ## 🎥 Demo
 
-Add your demo video or screenshots here.
+[▶ Watch Demo](./demoApp.mp4)
 
-### Demo Video
-
-https://github.com/PRIYANKA0045/Trip-Day-Planner/blob/main/demoApp.mp4
-
-
+![Trip Day Planner Demo](https://github.com/PRIYANKA0045/Trip-Day-Planner/blob/main/demoApp-gif.mp4)
 ---
+
 
 ## 📖 How It Works
 
